@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Vision.Core/Vision.Core.csproj" />
+    <Project Path="src/Vision.Calibration/Vision.Calibration.csproj" />
+    <Project Path="src/Vision.Acquisition/Vision.Acquisition.csproj" />
+    <Project Path="src/Vision.Communication/Vision.Communication.csproj" />
+    <Project Path="src/Vision.Desktop/Vision.Desktop.csproj" />
+  </Folder>
+  <Folder Name="/samples/">
+    <Project Path="samples/Vision.ExternalClient/Vision.ExternalClient.csproj" />
+  </Folder>
+</Solution>
